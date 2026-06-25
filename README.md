@@ -1,5 +1,7 @@
 <div align="center"><a href="https://github.com/kelly990918/NYUCapstone/tree/main?tab=readme-ov-file#kongtone">English</a> <a href="https://github.com/kelly990918/NYUCapstone/tree/main?tab=readme-ov-file#%E6%B8%AF%E9%80%9A">中文</a></div>
 
+<div align="center"><a href="https://medium.com/@kongtone_cantonese" target="_blank"><img src="https://github.com/ji5jan1/NYU-Capstone-KongTone/blob/main/Medium-Icon-Black.svg" style="height: 2em"></a> </div>
+
 ![KongTone banner](https://github.com/kelly990918/NYUCapstone/blob/main/KongTone-banner.png)
 
 # KONGTONE
